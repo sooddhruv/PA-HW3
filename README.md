@@ -1,5 +1,5 @@
 # PA-HW3
-Feature Selection and Data Classification Assignment
+## Feature Selection and Data Classification Assignment
 
 
 
@@ -17,4 +17,4 @@ assignment, you should be able to –
 3. Benchmark various algorithms
 4. Perform hyperparameter searches
 5. Maintain clean and understandable code
-![image](https://github.com/user-attachments/assets/92bab21d-9a50-49dc-a96d-1233e506662f)
+
